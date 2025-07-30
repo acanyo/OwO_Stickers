@@ -7,7 +7,7 @@ import os
 
 # the emoji name, will be the key of the new emoji
 # 表情包的名字，将会是新表情包的JSON键
-emoji_name = "QQ超级表情"
+emoji_name = "可爱蟑螂"
 
 # the emoji data structure
 # 表情包的数据结构
@@ -16,7 +16,7 @@ emoji_data = json.loads(emoji_data)
 
 # the folder where the emoji images are stored
 # 表情包图片存放的文件夹
-folder = "qlottie"
+folder = "Cucaracha"
 
 # the cdn url of the emoji images, end without slash /
 # 表情包JSON的CDN地址，不要以斜杠结尾
