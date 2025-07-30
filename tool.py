@@ -42,7 +42,7 @@ with open("OwO.min.json", "r", encoding="utf-8") as f:
 for index, file  in enumerate(os.listdir("stickers" + os.sep + folder)):
     if file:
         emoji_data[emoji_name]["container"].append(
-            {"text": f"{folder}-{index}", "icon":f"<img src='{cdn_url}/{folder}-Preview/{file}' "
+            {"text": f"{folder}-{index}", "icon":f"<img src='{cdn_url}/{folder}-Preview/{file.replace(".avif", ".webp")}' "
                                                  f"origin='{cdn_url}/{folder}/{file}'>" ,})
 
 for key, value in owo_json.items():
