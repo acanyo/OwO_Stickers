@@ -5,9 +5,9 @@
 import json
 import os
 
-# the emoji name, will be the key of the new emoji
-# 表情包的名字，将会是新表情包的JSON键
-emoji_name = "可爱蟑螂"
+# the emoji name, will be the name of the new emoji in the JSON
+# 表情包的名字，将会是新表情包的名字
+emoji_name = "史迪奇"
 
 # the emoji data structure
 # 表情包的数据结构
@@ -16,7 +16,7 @@ emoji_data = json.loads(emoji_data)
 
 # the folder where the emoji images are stored
 # 表情包图片存放的文件夹
-folder = "Cucaracha"
+folder = "Stitch"
 
 # the cdn url of the emoji images, end without slash /
 # 表情包JSON的CDN地址，不要以斜杠结尾
@@ -45,10 +45,16 @@ for index, file  in enumerate(os.listdir("stickers" + os.sep + folder)):
             {"text": f"{folder}-{index}", "icon":f"<img src='{cdn_url}/{folder}-Preview/{file.replace(".avif", ".webp")}' "
                                                  f"origin='{cdn_url}/{folder}/{file}'>" ,})
 
-for key, value in owo_json.items():
+# find the index of the append_after, and insert the new emoji data after it
+append_index = 0
+for i, key in enumerate(owo_json.keys()):
     if key == append_after:
-        owo_json[key].update(emoji_data)
+        append_index = i + 1
         break
+# insert the new emoji data into the json
+owo_json_list = list(owo_json.items())
+owo_json_list.insert(append_index, (emoji_name, emoji_data[emoji_name]))
+owo_json = dict(owo_json_list)
 
 if need_compress:
     file_content = json.dumps(owo_json, separators=(',', ':'), ensure_ascii=False)
