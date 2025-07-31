@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="./stickers/StarPatrick/AgADzgADlp-MDg.webp" />
+    <img src="./stickers/StarPatrick/AgADzgADlp-MDg.avif" />
 
 </p>
 <p align="center">
@@ -26,22 +26,32 @@
 
 > PS: 
 > - 我不是这些贴纸的作者，我只是从 Telegram 导出的。
-> - 我已将它们调整为 100x100 的大小质量 为 100，并转换为 WEBP 格式。
+> - 我已将它们调整为 256x256 的大小质量 为 50，并转换为 avif 格式。
 > - 如果你想使用原始质量和大小的贴纸，你需要自己导出。
 > - 如果你是这些贴纸的作者并且不希望我使用它们，请联系我。
 
 贴纸  | 预览 | 预览  | 预览 | 预览  | 预览
 -------- | ------- | -------- | ------- | -------- | -------
-BLACKPINK | ![😂](./stickers/BLACKPINK/AgAD0xIAAr3xOEg.webp) | ![](./stickers/BLACKPINK/AgAD7AwAA9rQSA.webp) | ![](./stickers/BLACKPINK/AgADHQ0AAh770Eg.webp) | ![](./stickers/BLACKPINK/AgADVgwAAtIc2Eg.webp) | ![](./stickers/BLACKPINK/AgADrA4AApttOUg.webp)|
-JINX | ![](./stickers/JINX/AgAD0RMAAgTpQEk.webp) | ![](./stickers/JINX/AgADDFIAAlMk-Uk.webp) | ![](./stickers/JINX/AgADqBcAArbFSUk.webp) | ![](./stickers/JINX/AgADUxcAAl2mQEk.webp) | ![](./stickers/JINX/AgADqBcAArbFSUk.webp) |
-Minions | ![](./stickers/Minions/AgAD6BYAAv2LEEo.webp) | ![](./stickers/Minions/AgADAhUAAjrBUEk.webp) | ![](./stickers/Minions/AgADFBUAAuCUyEk.webp) | ![](./stickers/Minions/AgADqhYAApmkEUo.webp) | ![](./stickers/Minions/AgADyxQAAt2wUUk.webp) |
-PeopleMemes | ![](./stickers/PeopleMemes/AgADfRMAAqN3qEs.webp) | ![](./stickers/PeopleMemes/AgADgxgAAstUsEo.webp) | ![](./stickers/PeopleMemes/AgADgRUAAuvgUUg.webp) | ![](./stickers/PeopleMemes/AgADcRgAAmAswEg.webp) | ![](./stickers/PeopleMemes/AgADzxkAAiUBwEg.webp) |
-RickAndMorty | ![](./stickers/RickAndMorty/AgADMgMAArVx2gY.webp) | ![](./stickers/RickAndMorty/AgADKAMAArVx2gY.webp) | ![](./stickers/RickAndMorty/AgADLQMAArVx2gY.webp) | ![](./stickers/RickAndMorty/AgADNQMAArVx2gY.webp) | ![](./stickers/RickAndMorty/AgADOQMAArVx2gY.webp) |
-StarPatrick | ![](./stickers/StarPatrick/AgAD1wADlp-MDg.webp) | ![](./stickers/StarPatrick/AgAD2wADlp-MDg.webp) | ![](./stickers/StarPatrick/AgAD3wADlp-MDg.webp) | ![](./stickers/StarPatrick/AgAD4gADlp-MDg.webp) | ![](./stickers/StarPatrick/AgADyQADlp-MDg.webp) |
-UtyaDuck | ![](./stickers/UtyaDuck/AgAD2gEAAladvQo.webp) | ![](./stickers/UtyaDuck/AgAD9QADVp29Cg.webp) | ![](./stickers/UtyaDuck/AgADSwIAAladvQo.webp) | ![](./stickers/UtyaDuck/AgADCAEAAladvQo.webp) | ![](./stickers/UtyaDuck/AgADDgEAAladvQo.webp) |
+BLACKPINK | ![😂](./stickers/BLACKPINK/AgAD0xIAAr3xOEg.avif) | ![](./stickers/BLACKPINK/AgAD7AwAA9rQSA.avif) | ![](./stickers/BLACKPINK/AgADHQ0AAh770Eg.avif) | ![](./stickers/BLACKPINK/AgADVgwAAtIc2Eg.avif) | ![](./stickers/BLACKPINK/AgADrA4AApttOUg.avif)|
+JINX | ![](./stickers/JINX/AgAD0RMAAgTpQEk.avif) | ![](./stickers/JINX/AgADDFIAAlMk-Uk.avif) | ![](./stickers/JINX/AgADqBcAArbFSUk.avif) | ![](./stickers/JINX/AgADUxcAAl2mQEk.avif) | ![](./stickers/JINX/AgADOBkAAntfQEk.avif) |
+Minions | ![](./stickers/Minions/AgAD6BYAAv2LEEo.avif) | ![](./stickers/Minions/AgADAhUAAjrBUEk.avif) | ![](./stickers/Minions/AgADFBUAAuCUyEk.avif) | ![](./stickers/Minions/AgADqhYAApmkEUo.avif) | ![](./stickers/Minions/AgADyxQAAt2wUUk.avif) |
+PeopleMemes | ![](./stickers/PeopleMemes/AgADfRMAAqN3qEs.avif) | ![](./stickers/PeopleMemes/AgADgxgAAstUsEo.avif) | ![](./stickers/PeopleMemes/AgADgRUAAuvgUUg.avif) | ![](./stickers/PeopleMemes/AgADcRgAAmAswEg.avif) | ![](./stickers/PeopleMemes/AgADzxkAAiUBwEg.avif) |
+RickAndMorty | ![](./stickers/RickAndMorty/AgADMgMAArVx2gY.avif) | ![](./stickers/RickAndMorty/AgADKAMAArVx2gY.avif) | ![](./stickers/RickAndMorty/AgADLQMAArVx2gY.avif) | ![](./stickers/RickAndMorty/AgADNQMAArVx2gY.avif) | ![](./stickers/RickAndMorty/AgADOQMAArVx2gY.avif) |
+StarPatrick | ![](./stickers/StarPatrick/AgAD1wADlp-MDg.avif) | ![](./stickers/StarPatrick/AgAD2wADlp-MDg.avif) | ![](./stickers/StarPatrick/AgAD3wADlp-MDg.avif) | ![](./stickers/StarPatrick/AgAD4gADlp-MDg.avif) | ![](./stickers/StarPatrick/AgADyQADlp-MDg.avif) |
+UtyaDuck | ![](./stickers/UtyaDuck/AgAD2gEAAladvQo.avif) | ![](./stickers/UtyaDuck/AgAD9QADVp29Cg.avif) | ![](./stickers/UtyaDuck/AgADSwIAAladvQo.avif) | ![](./stickers/UtyaDuck/AgADCAEAAladvQo.avif) | ![](./stickers/UtyaDuck/AgADDgEAAladvQo.avif) |
+Cucaracha | ![](./stickers/Cucaracha/AgAD418AAqOmoEg.avif) | ![](./stickers/Cucaracha/AgADaUgAAnlcMUs.avif)    | ![](./stickers/Cucaracha/AgADbgoAAsxguEk.avif)    | ![](./stickers/Cucaracha/AgADBkAAArKFuEo.avif)    | ![](./stickers/Cucaracha/AgADeA4AArFbwEk.avif)   |
+Crocosaurus | ![](./stickers/Crocosaurus/AgAD_AsAAsgj6Es.avif) | ![](./stickers/Crocosaurus/AgAD2A8AAkjyYEs.avif)  | ![](./stickers/Crocosaurus/AgAD5AoAArPZoUs.avif)  | ![](./stickers/Crocosaurus/AgAD7goAAp2hYUs.avif)  | ![](./stickers/Crocosaurus/AgADAR4AArk8OUg.avif) |
+Clown | ![](./stickers/Clown/AgAD5CYAApdwoUo.avif) | ![](./stickers/Clown/AgAD7iMAAmAdoUo.avif)        | ![](./stickers/Clown/AgADcCkAAjkyoUo.avif)        | ![](./stickers/Clown/AgADcikAAnMjoUo.avif)        | ![](./stickers/Clown/AgADhicAAuzyiUs.avif)       |
+DogeHead | ![](./stickers/DogeHead/AgAD_z4AAqp5YEk.avif) | ![](./stickers/DogeHead/AgAD3jgAAhrkaUk.avif)     | ![](./stickers/DogeHead/AgAD3SoAAqDvaEk.avif)     | ![](./stickers/DogeHead/AgAD5i8AAmeNaUk.avif)     | ![](./stickers/DogeHead/AgAD6jYAAneQYEk.avif)    |
+Godzi | ![](./stickers/Godzi/AgAD3hQAAuULuUo.avif) | ![](./stickers/Godzi/AgAD5R4AAt0DmUg.avif)        | ![](./stickers/Godzi/AgAD8hQAApHEsEg.avif)        | ![](./stickers/Godzi/AgADRjwAAgOpCEs.avif)        | ![](./stickers/Godzi/AgAEFQAC_ZUgSA.avif)        |
+PetMemes | ![](./stickers/PetMemes/AgADjEgAAjnTAAFL.avif) | ![](./stickers/PetMemes/AgADUXgAAr8rmEo.avif)     | ![](./stickers/PetMemes/AgADtmQAAsZgqEo.avif)     | ![](./stickers/PetMemes/AgAD-FUAAivSAAFL.avif)    | ![](./stickers/PetMemes/AgAD0VcAAkR3AAFL.avif)   |
+QLottie | ![](./stickers/qlottie/5.avif) | ![](./stickers/qlottie/337.avif)                  | ![](./stickers/qlottie/314.avif)                  | ![](./stickers/qlottie/320.avif)                  | ![](./stickers/qlottie/317.avif)                 |
+SquidGame | ![](./stickers/SquidGame/AgADmHYAAqxMEUs.avif) | ![](./stickers/SquidGame/AgAD2XUAAj_QEUs.avif)     | ![](./stickers/SquidGame/AgAD0nkAAsWcCUs.avif)     | ![](./stickers/SquidGame/AgAD_JUAAshBCEs.avif)     | ![](./stickers/SquidGame/AgAD_3UAAtSQCUs.avif)    |
+Stitch | ![](./stickers/Stitch/AgADfkIAAnn44Ek.avif) | ![](./stickers/Stitch/AgADaDkAAlbY4Uk.avif)        | ![](./stickers/Stitch/AgAD8DUAAt7a4Uk.avif)        | ![](./stickers/Stitch/AgAD6ToAAuBu4Uk.avif)        | ![](./stickers/Stitch/AgAD4TwAApNv4Ek.avif)       |
 
 ----
-以下这些贴纸是从互联网上找到的。
+以下这些贴纸是从互联网上找到的。  
+
 贴纸  | 预览 | 预览  | 预览 | 预览  | 预览
 -------- | ------- | -------- | ------- | -------- | -------
 阿鲁 | ![](./stickers/alu/不出所料@2x.png) | ![](./stickers/alu/不说话@2x.png) | ![](./stickers/alu/中指@2x.png) | ![](./stickers/alu/傻笑@2x.png) | ![](./stickers/alu/口水@2x.png) |
@@ -63,7 +73,7 @@ Yurui-Neko | ![](./stickers/Yurui-Neko/001.png) | ![](./stickers/Yurui-Neko/002.
 
 ## 注意
 
-由于贴纸是从 Telegram 导出的，原始文件是 `.tgs` 格式。我已将它们转换为 `.webp` 格式，并调整为 100x100 的大小 质量为 100。但文件大小仍然较大（每张图片约 `300-400KB`）。
+由于贴纸是从 Telegram 导出的，原始文件是 `.tgs` 格式。我已将它们转换为 `.avif` 格式，并调整为 100x100 的大小 质量为 100。但文件大小仍然较大（每张图片约 `300-400KB`）。
 所以我在 img 标签中设置了一个 `origin` 属性，它会先加载预览图（每张图片约 `3-5KB`，我进行了压缩），只有在发布消息时才加载原始图片（你需要自己修改代码，具体如何做取决于你的项目，如果你使用 `Twikoo`，请参见下面的说明）。
 但有一种替代方法可以显示原始（gif）图片，你只需要在 `OwO.min.json` 中替换 img src，将 `-Preview` 替换为空，例如：将 `/PeopleMemes-Preview/` 替换为 `/PeopleMemes/`。但这会导致每次挑选表情包时造成的大量图片加载，假设每张图300KB，150张图就是45MB的流量，所以不建议这样做。
 
