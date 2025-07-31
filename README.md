@@ -74,9 +74,10 @@ RabbitCN | ![](./stickers/那兔/一见钟情.png) | ![](./stickers/那兔/恶�
 
 ## Note
 
-Because the stickers are exported from the Telegram, The original file is in the `.tgs` format. I have converted them to `.avif` format, and resized them to 100x100 quality 100. But it still got large file size(about `300-400KB per image`).
-So I have set an property `origin` in the img tag, It will load the preview image first(about `3-5KB per image`, I did the `compressed`), Only load the original image when you published the message(You have to modify the code by yourself, how to do it is considered about your project, See the `Twikoo` below if you use it).
-But there is an alternative way show the original(gif) image, You just need to replace the img src in the `OwO.min.json`, replace the `-Preview` to none, for example: `/PeopleMemes-Preview/` to `/PeopleMemes/`. But that will cause a lot of image loading when visitor pick the stickers, Assume each image is 300KB, 150 images is 45MB traffic, So it's not recommended.
+Because the stickers are exported from Telegram, the original file is in `.tgs` format. I have converted them to `.avif` format and resized them to 256x256 with a quality of 50 (the actual effect is not much affected). But the file size is still large (about `160KB` on average, ranging from `10-600KB`).
+So I set an `origin` attribute in the img tag, which will load the preview image first (about `1-50KB` each, I have compressed them), and only load the original image when posting the message (you need to modify the code by yourself, how to do it depends on your project, if you use `Twikoo`, please refer to the instructions below).
+But there is an alternative way to display the original (avif) images, you just need to replace the img src in `OwO.min.json`, replacing `-Preview` with nothing, for example: replace `/PeopleMemes-Preview/` with `/PeopleMemes/`. But this will cause a lot of images to be loaded every time you pick a sticker, assuming each image is 160KB, 150 images will be 23.4MB of traffic, so it is not recommended to do so.
+
 
 ## Twikoo
 if you use the twikoo comment system.
