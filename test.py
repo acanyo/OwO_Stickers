@@ -20,5 +20,5 @@ def remove_emoji_from_filenames(folder_path):
 
 
 # Example usage
-folder_path = r'D:\Development\Project\CSharp\LottieViewConvert\LottieViewConvert\bin\Debug\net8.0\SavedStickers\SantaEmoji\SantaEmoji_output'
+folder_path = r'D:\Development\Project\CSharp\LottieViewConvert\LottieViewConvert\bin\Debug\net8.0\SavedStickers\RestrictedEmoji\RestrictedEmoji_output'
 remove_emoji_from_filenames(folder_path)
